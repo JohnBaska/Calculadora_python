@@ -1,14 +1,14 @@
 # Calculadora_python
 
-## Descrição do Projeto
+## Project Description:
 
-Esse projeto foi feito em python com a biblioteca tkinter
+this project was made in python with library tkinter
 
-O projeto consiste em uma calculadora comum com algumas funções um pouco mais complexas
+The project consists of a common calculator with somethings functions a little more complex
 
-## Configurações prévias
+## Previous Settings
 
-Para rodar ele necessita apenas do python instalado na máquina
+For run it need just that you have installed the python in your machine
 
 ## Explicações do projeto
 
